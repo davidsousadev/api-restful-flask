@@ -143,7 +143,7 @@ Requisição
 
 curl -X PUT http://127.0.0.1:5000/items/1 \
     -H "Content-Type: application/json" \
-    -d '{"item": "Item Atualizado"}'
+    -d '{"item": "Item Atualizado!"}'
 
 ```
 
