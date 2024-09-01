@@ -29,8 +29,8 @@ Esta é uma API RESTful construída com Flask e SQLAlchemy para gerenciar um con
    
 ```sh
 
-   git clone https://github.com/davidsousadev/api-RESTful-Flask.git
-   cd api-RESTful-Flask
+   git clone https://github.com/davidsousadev/api-restful-flask.git
+   cd api-restful-flask
 
 ```
 ### 2. Crie um ambiente virtual e ative-o (Opcional):
